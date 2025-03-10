@@ -8,7 +8,7 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
+  "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"Animation Curves","folderPath":"folders/Animation Curves.yy","name":"Animation Curves","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -35,10 +35,7 @@
   "name":"mazegame",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"spr_walkback","path":"sprites/spr_walkback/spr_walkback.yy",},},
-    {"id":{"name":"spr_walkfront","path":"sprites/spr_walkfront/spr_walkfront.yy",},},
-    {"id":{"name":"spr_walkleft","path":"sprites/spr_walkleft/spr_walkleft.yy",},},
-    {"id":{"name":"spr_walkright","path":"sprites/spr_walkright/spr_walkright.yy",},},
+    {"id":{"name":"pixel_brick_wall_vector_12492931","path":"sprites/pixel_brick_wall_vector_12492931/pixel_brick_wall_vector_12492931.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
