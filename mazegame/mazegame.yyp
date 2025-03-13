@@ -36,6 +36,10 @@
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"pixel_brick_wall_vector_12492931","path":"sprites/pixel_brick_wall_vector_12492931/pixel_brick_wall_vector_12492931.yy",},},
+    {"id":{"name":"walk","path":"sprites/walk/walk.yy",},},
+    {"id":{"name":"walk3","path":"sprites/walk3/walk3.yy",},},
+    {"id":{"name":"walk4","path":"sprites/walk4/walk4.yy",},},
+    {"id":{"name":"walk5","path":"sprites/walk5/walk5.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
