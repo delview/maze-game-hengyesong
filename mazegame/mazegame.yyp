@@ -43,6 +43,7 @@
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"spr_door_stand","path":"sprites/spr_door_stand/spr_door_stand.yy",},},
     {"id":{"name":"spr_door","path":"sprites/spr_door/spr_door.yy",},},
+    {"id":{"name":"spr_key","path":"sprites/spr_key/spr_key.yy",},},
     {"id":{"name":"spr_stand_back","path":"sprites/spr_stand_back/spr_stand_back.yy",},},
     {"id":{"name":"spr_stand_front","path":"sprites/spr_stand_front/spr_stand_front.yy",},},
     {"id":{"name":"spr_stand_left","path":"sprites/spr_stand_left/spr_stand_left.yy",},},
