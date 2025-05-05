@@ -1,9 +1,7 @@
 {
   "$GMObject":"",
   "%Name":"Obj_spike",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_guy","path":"objects/obj_guy/obj_guy.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "eventList":[],
   "managed":true,
   "name":"Obj_spike",
   "overriddenProperties":[],
