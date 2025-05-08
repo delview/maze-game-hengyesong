@@ -2,7 +2,6 @@
 /// @DnDVersion : 1
 /// @DnDHash : 323E1538
 /// @DnDArgument : "spriteind" "spr_stand_left"
-/// @DnDSaveInfo : "spriteind" "spr_stand_left"
 sprite_index = spr_stand_left;
 image_index = 0;
 

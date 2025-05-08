@@ -3,7 +3,6 @@
 /// @DnDHash : 323E1538
 /// @DnDArgument : "imageind_relative" "1"
 /// @DnDArgument : "spriteind" "spr_stand_back"
-/// @DnDSaveInfo : "spriteind" "spr_stand_back"
 sprite_index = spr_stand_back;
 image_index += 0;
 

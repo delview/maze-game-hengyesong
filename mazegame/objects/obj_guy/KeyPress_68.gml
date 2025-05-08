@@ -14,6 +14,5 @@ speed = 5;
 /// @DnDVersion : 1
 /// @DnDHash : 0BCB0725
 /// @DnDArgument : "spriteind" "spr_walkright"
-/// @DnDSaveInfo : "spriteind" "spr_walkright"
 sprite_index = spr_walkright;
 image_index = 0;

@@ -2,7 +2,6 @@
 /// @DnDVersion : 1
 /// @DnDHash : 4D7E4EB0
 /// @DnDArgument : "spriteind" "spr_door"
-/// @DnDSaveInfo : "spriteind" "spr_door"
 sprite_index = spr_door;
 image_index = 0;
 

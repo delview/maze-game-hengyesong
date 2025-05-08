@@ -21,5 +21,4 @@ y = 112;
 /// @DnDVersion : 1.1
 /// @DnDHash : 64773AF5
 /// @DnDArgument : "soundid" "die"
-/// @DnDSaveInfo : "soundid" "die"
 audio_play_sound(die, 0, 0, 1.0, undefined, 1.0);

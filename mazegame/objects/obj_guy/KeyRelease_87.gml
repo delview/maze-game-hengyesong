@@ -2,7 +2,6 @@
 /// @DnDVersion : 1
 /// @DnDHash : 323E1538
 /// @DnDArgument : "spriteind" "spr_stand_front"
-/// @DnDSaveInfo : "spriteind" "spr_stand_front"
 sprite_index = spr_stand_front;
 image_index = 0;
 
